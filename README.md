@@ -1,0 +1,2 @@
+# Web-based-students-course-attendance-system-using-Facial-Recognition
+An attendance system were students can remotely register, add courses, register face samples and track their attendance. Lecturers are responsible for marking students attendance by binding their courses to themselves. Admin perform oversight functions on all students and lecturers on the system. Admin also add, edit and delete courses. Lecturer uses PC to login  any lecture venue within university to mark attendance
