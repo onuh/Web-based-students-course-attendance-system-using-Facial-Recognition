@@ -1,0 +1,24 @@
+.rt-breakpoint {
+	display: none;
+}
+
+.mobile-table {
+	border:1px solid #ccc;
+}
+
+.mobile-table thead {
+	display: none;
+}
+
+.mobile-table tr,
+.mobile-table td {
+	display: block;
+	box-sizing: border-box;
+	width:100%!important;
+	border:none;
+}
+
+.mobile-table td[data-title]:before {
+    content: attr(data-title) ":\00A0";
+        font-weight: bold;
+}
